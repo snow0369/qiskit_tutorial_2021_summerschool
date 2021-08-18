@@ -32,7 +32,12 @@ Qiskit Aqua는 0.9.0 버전 이후로 domain 별로 분화되었습니다.
 0. [Installation](./0_Installation.pdf) - Qiskit 활용을 위한 준비
 1. [Hello Qiskit](./1_hello_qiskit.ipynb) - 기본적인 양자회로 구성, 시뮬레이션 실행 및 시각화
 2. [Simulators](./2_simulators.ipynb) - Qiskit Aer에서 제공하는 기본적인 Simulator 활용
-3. [Transpiler](./3_running_on_IBMQ.ipynb) - 양자 회로 변환 및 최적화
-4. [Noise Simulation](./4_noise_simulation.ipynb) - 노이즈가 있는 양자회로 시뮬레이션과 에러 정정
-5. [Phase Estimation](./5_phase_estimation.ipynb) - Quantum Phase Estimation 알고리즘을 이용한 수소분자(H<sub>2</sub>) 에너지 계산
-6. [Quantum ML](./6_quantum_machine_learning.ipynb) - 간단한 양자머신러닝 구현
+3. [Running on IBMQ](./3_running_on_IBMQ.ipynb) - IBMQ QPU 활용 및 양자 회로 변환 및 최적화
+4. [Algorithm-Quantum Phase Estimation](./4_application.ipynb) - Quantum Phase Estimation 알고리즘 응용
+5. [Exercise](./5_exercises.ipynb) - 연습문제
+
+
+## 3. Resources
+- qiskit tutorial (https://qiskit.org/documentation/tutorials.html)
+- qiskit slack channel (for QnA) (https://qiskit.slack.com)
+- qiskit github (https://github.com/Qiskit)
