@@ -1,1 +1,4 @@
-qiskit~=0.28.0
+qiskit~=0.29.0
+matplotlib
+pylatexenc
+numpy
