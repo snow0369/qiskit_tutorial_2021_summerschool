@@ -34,8 +34,8 @@ Qiskit Aqua는 0.9.0 버전 이후로 domain 별로 분화되었습니다.
 1. [Hello Qiskit](./1_hello_qiskit.ipynb) - 기본적인 양자회로 구성, 시뮬레이션 실행 및 시각화
 2. [Simulators](./2_simulators.ipynb) - Qiskit Aer에서 제공하는 기본적인 Simulator 활용
 3. [Running on IBMQ](./3_running_on_IBMQ.ipynb) - IBMQ QPU 활용 및 양자 회로 변환 및 최적화
-4. [Algorithm-Quantum Phase Estimation](./4_application.ipynb) - Quantum Phase Estimation 알고리즘 응용
-5. [Exercise](./5_exercises.ipynb) - 연습문제
+4. [Algorithm-Quantum Phase Estimation](./5_application.ipynb) - Quantum Phase Estimation 알고리즘 응용
+5. [Exercise](./6_exercises.ipynb) - 연습문제
 
 
 ## 3. Resources
